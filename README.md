@@ -1,4 +1,4 @@
-## Hi there 👋! I'm Huamao Xie (谢华茂), an enthusiastic Evolutionary Intelligence learner!
+## Hi there 👋, I'm Huamao Xie (谢华茂), an enthusiastic Evolutionary Intelligence learner!
 
 
 <!--
