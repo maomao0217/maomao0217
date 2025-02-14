@@ -1,4 +1,4 @@
-## Hi there 👋, I am Huamao Xie. My research focuses on combining neural networks with evolutionary algorithms to solve real-world multi-objective scheduling optimization problems.
+## Hi there 👋, I am Huamao Xie (谢华茂). My research focuses on combining neural networks with evolutionary algorithms to solve real-world multi-objective scheduling optimization problems.
 
 <!--
 **maomao0217/maomao0217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
