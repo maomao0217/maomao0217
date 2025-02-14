@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 [My homepage is here](https://maomao0217.github.io/academic-pages/)
 - 🔭 I'm currently working on integrating neural networks with multi-objective evolutionary algorithms to address real-world scheduling optimization problems.
 - 🌱 I’m currently learning to design schedulers that can learn to optimize real-world scheduling problems.
-- 📫 How to reach me: Email me at [qianyue17@gmail.com](qianyue17@gmail.com)
+- 📫 How to reach me: Email me at [qianyue17@gmail.com](mailto:qianyue17@gmail.com)
 
